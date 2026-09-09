@@ -1,11 +1,11 @@
 # Apple
-+.captive.apple.com
-+.push.apple.com
+# +.captive.apple.com
+# +.push.apple.com
 
 # Connectivitycheck
+# www.gstatic.com
 +.msftconnecttest.com
 +.msftncsi.com
-www.gstatic.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 
