@@ -1,0 +1,20 @@
+# Connectivity Check
++.captive.apple.com
++.msftconnecttest.com
++.msftncsi.com
++.www.gstatic.com
++.connectivitycheck.gstatic.com
++.connectivitycheck.android.com
+# Stun
++.stun.*.*
++.stun.*.*.*
+# Games
++.stun.playstation.net
++.srv.nintendo.net
++.p2p.nintendo.net
++.xboxlive.com
+xbox.*.*.microsoft.com
+xbox.*.microsoft.com
+# Apple
++.push.apple.com
+mesu.apple.com
