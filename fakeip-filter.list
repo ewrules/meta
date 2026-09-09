@@ -5,9 +5,9 @@
 # Connectivitycheck
 +.msftconnecttest.com
 +.msftncsi.com
-+.www.gstatic.com
-+.connectivitycheck.gstatic.com
-+.connectivitycheck.android.com
+www.gstatic.com
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
 
 # Games
 +.stun.playstation.net
